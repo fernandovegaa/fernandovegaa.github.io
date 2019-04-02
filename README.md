@@ -1,2 +1,4 @@
 # fernandovegaa12.github.io
-Paginas WEB-Fernando Vega
+Indice de practicas de bootstrap
+Niebla T. Kevin 
+Vega J. Fernando
